@@ -1,7 +1,7 @@
 let myCanvas = document.querySelector("canvas");
 let ctx = myCanvas.getContext("2d");
 
-myCanvas.height = 850;
+myCanvas.height = 680;
 myCanvas.width = 600;
 
 const sprites = new Image();
